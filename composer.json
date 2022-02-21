@@ -12,7 +12,7 @@
         "doctrine/dbal": "^3.2",
         "facade/ignition": "^2.17",
         "fideloper/proxy": "^4.4",
-        "fruitcake/laravel-cors": "^2.0",
+        "fruitcake/laravel-cors": "^2.1",
         "guzzlehttp/guzzle": "^7.4",
         "laravel/framework": "^8.75",
         "laravel/jetstream": "^2.4",
