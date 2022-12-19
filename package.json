@@ -14,7 +14,7 @@
         "@tailwindcss/forms": "^0.4.0",
         "@tailwindcss/typography": "^0.5.2",
         "autoprefixer": "^10.4.2",
-        "browser-sync": "^2.27.7",
+        "browser-sync": "^2.27.11",
         "browser-sync-webpack-plugin": "^2.3.0",
         "laravel-mix": "^6.0.42",
         "postcss": "^8.4.6",
